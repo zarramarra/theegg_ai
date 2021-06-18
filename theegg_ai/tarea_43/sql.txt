@@ -1,0 +1,65 @@
+
+
+Please submit all subscribers' details:
+
+SELECT *
+FROM subscribers;
+
+
+submit all subscribers number of purchases and addresses' details:
+
+SELECT Purchases, Address
+FROM subscribers;
+
+submit all users last names and number of posts' details:
+
+SELECT LastName, Posts
+FROM users;
+
+
+submit all subscribers hashed passwords' details. Please, make sure there are no duplicates:
+
+SELECT DISTINCT HashedPassword
+FROM subscribers;
+
+submit all members' details sorted by full names in ascending order:
+
+SELECT *
+FROM members
+ORDER BY FullName ASC;
+
+submit all subscribers' details sorted by hashed passwords in descending order:
+
+SELECT *
+FROM subscribers
+ORDER BY HashedPassword DESC;
+
+submit all members hashed passwords and member since dates' details sorted by since dates in descending order. 
+Please, make sure there are no duplicates:
+
+SELECT DISTINCT HashedPassword, MemberSince
+FROM members
+ORDER BY MemberSince DESC;
+
+submit all members number of purchases and names' details sorted by names in descending order and then by number of purchases in descending order. 
+
+SELECT NumberOfPurchases, Name
+FROM members
+ORDER BY Name DESC, NumberOfPurchases DESC;
+
+submit the top 3 subscribers' details when sorted by mailing addres in descending order and then by usernames in descending order. 
+
+SELECT *
+FROM subscribers
+ORDER BY MailingAddress DESC, Username DESC
+LIMIT 3;
+
+submit the top 5 members addresses and number of purchases' details when sorted by number of purchases in descending order and then by addresses in ascending order. 
+Please, make sure there are no duplicates:
+
+SELECT Address, Purchases
+FROM members
+ORDER BY NumberOfPurchases DESC, Address ASC
+LIMIT 5;
+
+
