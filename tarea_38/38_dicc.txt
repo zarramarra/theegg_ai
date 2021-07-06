@@ -1,0 +1,5 @@
+Algoritmo: secuencia de pasos ordenada que se siguen para obtener un resultado.  
+
+diagrama-de-flujo: la manera que se utiliza para visualizar un algoritmo mediante bloques y flechas y que determina el flujo por el cual avanza un algoritmo 
+
+convención-de-programación: el acuerdo por el cual se siguen unas normal a la hora de programar y por el cual es más fácil que el código desarrollado sea más fácil de entender por otros 

@@ -1,0 +1,5 @@
+Redes informáticas: conexiones entre distintos equipos que se utilizan para su comunicación. Pueden tener distintas topologías y canales de comunicación. 
+
+Internet: red de redes --> la interconexión de millones de equipos 
+
+ 

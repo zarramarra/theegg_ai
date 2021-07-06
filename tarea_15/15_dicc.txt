@@ -1,0 +1,11 @@
+Python: programazio lengoaia da, interpretatua eta maila altukoa. Nahiko erraza da ulertzeko eta datuen analisian eta IAn erabiltzen da besteak beste 
+
+R: datu analisian erabilitzen den programazio lengoaia 
+
+Lisp: programazio lengoaia nahiko zaharra 
+
+Java: programazio lengoaia konpilatua 
+
+Lenguaje compilado: pausu gehigarri batean makina kode bat sortzen da eta hori kargatzen da makinan: c, c++, java, go, rust 
+
+Lenguaje interpretado: exekutatzen den bitartean itzultzen den lengoaia da (python, ruby, javascript) 

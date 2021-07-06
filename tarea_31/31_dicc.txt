@@ -1,0 +1,5 @@
+ETL: el proceso por el cual se obtienen los datos necesario para el análisis de datos de datos no estructurados y que consta de Extracción, Transformación y Carga de los datos mencionados 
+
+Bases de datos: estructuras donde se guardan datos de manera estructurada y organizada 
+
+Data-preprocessing: preparar los datos antes de que sean procesados 

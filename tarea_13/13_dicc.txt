@@ -1,0 +1,13 @@
+Periférico: teklatua, monitorea, xagua... 
+
+Arq. Von-neuman eta arq. Harvard: arkitektura mota desberdinak dira, lehenengoan memoria berdina erabiltzen da datuak eta instrukzioak gordetzeko eta bestean memoria desberdina. 
+
+Sistema operativo: Linux, Windows, Mac, Android, iOS... 
+
+Software: fisikoki ikusten ez den zatia--> kodea, so, aplikazioak... 
+
+Hardware: konponente fisikoak 
+
+Raspeberry pi: ordenagailu sinple eta merkeena 
+
+Arduino: oinarrizko prozesagailua 

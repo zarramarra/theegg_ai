@@ -1,0 +1,11 @@
+Pentesting: método para penetrar en el sistema para encontrar vulnerabilidades, se trata de hacer la auditoría de ciberseguridad de una organización o parte de ella 
+
+Ciberseguridad: seguridad de la red, ser capaz de eliminar las vulnerabilidades por las cuales se podría comprometer la máquina o el sistema 
+
+Ransomware: secuestro de datos para extorsión 
+
+Phising: engañar o hacerse pasar por otro para obtener información 
+
+Spyware: programa espía --> recopila datos y envía hacía el atacante 
+
+Troyano: programa aparentemente legítimo, pero al ejecutar ataca al sistema 

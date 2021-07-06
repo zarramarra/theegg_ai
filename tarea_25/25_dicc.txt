@@ -1,0 +1,11 @@
+arquitectura-cliente-servidor: arquitectura sobre la que se basa la web. Está centralizado en el servidor, que está a la espera de que algún cliente le haga una petición para proporcionarle un recurso (imagen, vídeo, dato...) 
+
+FTP: file transfer protocol --> protocolo de comunicación que se utiliza para subir ficheros a un servidor 
+
+servidor-web: se trata de un ordenador, generalmente se encuentra en otro sitio físicamente y está a la escucha del cliente para proporcionarle lo que le pide 
+
+IP: dirección de cada dominio que constas de cuatro números decimales separados entre puntos 
+
+DNS: domain name service --> gran base de datos que traduce la dirección web (o nombre de dominio) a la dirección IP correspondiente 
+
+Protocolo TCP/IP: protocolo de comunicación de redes de internet que incluye protocolos de dos capas distintas: TCP (acuse de recepción) e IP (basado en direcciones únicas de nodos)   

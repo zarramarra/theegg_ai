@@ -1,0 +1,9 @@
+convertidor-analógico-digital: dispositivo que convierte un valor analógico (valores en teoría infinitos) en digital (valore finitos). El digital tendrá tantos niveles como bits tengamos para determinar la salida.   
+
+transistores-bipolares: transistores con dos uniones entre N y P. El más comun es el BJT y se utilizan normalmente como interruptores (trabajando en conmutación): abiertos y cerrados. La corriente entre colector y emisor se controla por la base 
+
+frecuencia-de-muestreo: frecuencia a la que se coge la señal analógica para convertirlo a digital. El objetivo es que sea lo suficientemente alta como para que se pueda volver a crear la señal analógica. 
+
+sistema-binario: sistema en el que cada digito solo puede tomar valor 0 o 1 
+
+algebra-booleana: algebra del sistema binario 

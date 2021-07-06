@@ -1,0 +1,3 @@
+diagrama-de-flujo: expresión gráfica de un algoritmo o secuencia de pasos. Es más fácil para diseñar que el código y después pasar a código es fácil 
+
+bucles-en-programación: ciclos en los que hay que cumplir la condición para salir del mismo y continuar con el programa 

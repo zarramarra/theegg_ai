@@ -1,0 +1,5 @@
+ada-lovelace : matemática y escritora británica a la cual se atribuye el primer algoritmo destrinado a ser procesado por una máquina 
+
+bucles: círculos de un código en el que se ejecuta una o una serie de líneas de código hasta que se cumpla una condición especificada (o un número de veces especificado) 
+
+lenguaje-de-programación: lenguaje formal con sintaxis y reglas específicas para que sirve para describir instrucciones para interactuar con las computadoras. 

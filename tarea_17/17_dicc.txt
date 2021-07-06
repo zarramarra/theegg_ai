@@ -1,0 +1,7 @@
+Javascript: lengoaia interpretatua, batez ere bezeroaren aldean (nabigatzailean) erabiltzen da 
+
+PHP: zerbitzariaren aldean erabiltzen den programazio lengoaia 
+
+CSS: markatze/etiketatzen lengoaia da 
+
+SQL: datu baseekin erabiltzen den lengoaia 

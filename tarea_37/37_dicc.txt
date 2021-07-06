@@ -1,0 +1,21 @@
+dirección-IP: dirección lógica (única en cada red) que sirve para identificar a cada equipo  y así poder gestionar la comunicación entre equipos de distintas redes 
+
+Internet: millones de dispositivos conectados y que se comunican entre ellos 
+
+red-WAN: red de area amplia, conectan entre ellas redes LAN 
+
+red-LAN: red de área local --> unión de varios dispositivos en el mismo sitio físico. Así es posible transmitir mensajes entre ellos y de manera muy rápida ya que la distancia es muy corta 
+
+máscara-de-subred: IP para determinar las partes fijas de las IPs de tu red, para que así se comporten como si fueran uno solo fuera de tu red --> conseguir la IP pública. Se  utiliza haciendo un AND con la dirección IP 
+
+Router: dispositivo para conectar dos redes distintas. Es capaz de leer direcciones IP y por tanto direccionar mensajes entre equipos que se encuentran en distintas redes 
+
+switch: dispositivo para crear redes. Aunque a diferencia de un hub, es capaz de alamacenar direcciones físicas (MAC) y enrutar mensajes entre distintos puntos de una misma red, no se puede utilizar para enviar datos a otra red 
+
+TCP-IP: protocolo de comunicación TCP protocolo de control de transmisión y IP protocolo de internet (funciona en cuatro capas: aplicación, transporte, internet (red) y acceso al medio 
+
+IP-pública: la IP que sirve para identificar a nuestra red desde el exterior 
+
+IP-privada: la IP de cada equipo de nuestra red 
+
+ 

@@ -1,0 +1,11 @@
+Compilador: programazio lengoaia eraldatu egiten du makinak ulertzeko moduko kodea sortzeko (makina lengoaiara itzultzen du). Lengoaia bakoitzak du bere konpilatzailea 
+
+Interprete: konpilatzailearen antzerakoa da, baina konpilatzaileak kode oso bat sortzen du makinan sartzeko eta interpreteak lerroz-lerro momentuan itzultzen dio makinari. 
+
+Lenguaje de programación: programatzeko/kodea idazteko hitzartutako lengoaia da, sintaxi et arau jakin batzuk dituena. 
+
+Editor de código: programak idazteko erabiltzen den testu editorea 
+
+Lenguaje de alto nivel: gizakiaren hizkuntzatik gertuago dago eta urrunago makinarengandik. Errazagoak izaten dira, baina hardwarearekiko kontrol gutxiago izaten da 
+
+Lenguaje máquina: behe mailako lengoaia, makinarekin zuzenean komunikatzeko erabiltzen dena. 

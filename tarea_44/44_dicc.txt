@@ -1,0 +1,5 @@
+Notación-asintótica: distintos tipos de métodos para evaluar la eficiencia de un algoritmo. Cada uno de los tipos de notación asintótica se centra en una característica de los distintos casos de ejecución de un algoritmo 
+
+Notación-Big-O: un tipo de notación asintótica que es el que más se utilizar para evaluar la eficiencia de los algoritmos: define la cota superior del algoritmo. 
+
+Algoritmos-de-ordenación: algoritmos para ordenar los elementos de un array o lista. 

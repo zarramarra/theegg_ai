@@ -1,0 +1,5 @@
+Transistor: konponente elektroniko bat da, etengailu batek moduan funtzionatzen duelarik eta elektronika digitaleko 0 eta 1ak sortzeko erabiltzen dena 
+
+Ley de Moore: transistoreen kopuruaren bilakaera adierazten duen legea --> bi urtean bikoiztu egiten da mikro bateko transistore kopurua 
+
+Puertas lógicas: AND, OR, NAND, NOR, XOR, XNOR eta NOT eragiketak egiteko konponenteak. Beraiei esker posible da 0 eta 1 mailak bakarrik erabilita edozein datu pasatzea ordenagailu baten zatien artean. 

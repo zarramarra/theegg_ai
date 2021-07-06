@@ -1,0 +1,3 @@
+Repositorio: gordailu edo almazen bat bezala da aplikazio edo kode baten bertsioak eta beraien arteko aldaketen historiko bat gordetzeko. 
+
+Github: git-ean oinarritutako aplikazio bat da bertsioen kontrola egin ahal izateko. 

@@ -1,0 +1,19 @@
+Pentesting: método para penetrar en el sistema para encontrar vulnerabilidades, se trata de hacer la auditoría de ciberseguridad de una organización o parte de ella 
+
+XSS: inyectar un script (por ejemplo Javascript) para que salte una ventana emergente y redirija al usuario a páginas de tercerospenta 
+
+Inyección SQL: un cracker que accede por un formulario y obtiene o altera las bases de datos 
+
+Ataque informático: 
+
+Ataque DDoS: el atacante sobrecarga un servidor de manera que el servicio es denegado al usuario 
+
+Ingeniería social: manipular a las personas para obtener información relevante sobre ellas 
+
+hacker: persona capaz de introducirse en un sistema informático sin fines maliciosos 
+
+cracker: persona capaz de introducirse en un sistema informático con fines maliciosos 
+
+Man-in-the-middle: el cracker intercepta las comunicaciones de una persona y las puede alterar en el camino o utilizar esa información 
+
+Phising: tipo de ingeniería social que puede ser de distintos tipos en el que el objetivo es obtener información del usuario, con el envío masivo de correo electrónico. 

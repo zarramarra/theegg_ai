@@ -1,0 +1,9 @@
+SQL: Llamado lenguaje estructurado de consulta se trata del lenguaje utilizado en los sistemas de gestión de bases de datos 
+
+Bases-de-datos-relacionales: están estructurados en tablas y entre ellas se inter-relacionan utilizando ids 
+
+MySQL: sistema de gestión de bases de datos, es de código abierto y la más popular 
+
+PostgreSQL: sistema de gestión de bases de datos, es de código abierto y es orientado a objetos 
+
+MongoDB: sistema de gestión de bases de datos no relacionales (NoSQL) 

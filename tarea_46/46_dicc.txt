@@ -1,0 +1,9 @@
+estadística-descriptiva: estadística que trata de organizar los datos utilizando medidas de  centralidad (media, mediana y moda), de dispersión (varianza, desv.sta) y de distribución para poder ver mejor los datos que tenemos 
+
+análisis-exploratorio: pasar de datos a gráficos para descubrir cosas nuevas que en la tabla no se ven 
+
+dato-estructurado: los datos que están organizados --> tablas, bases de datos 
+
+dato-semiestructurado: XML, tienen cierta estructura de datos, pero no totalmente estructurado 
+
+dato-no-estructurado: un archivo (pdf por ejemplo) de los que todavía hay que obtener datos 

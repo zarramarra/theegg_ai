@@ -1,0 +1,7 @@
+API: Interfaz de programación de aplicaciones, que suele funcionar en el back-end y de manera remota, es un servicio web, al que se le hacen peticiones desde el front-end a distintar rutas (url-s) configuradas 
+
+JSON: formato para el envío de datos más utilizado hoy en día 
+
+XML: formato de datos que se ha utilizado mucho, pero ahora se utiliza más JSON 
+
+protocolo-de-comunicación: reglas para que la comunicación sea entendida, por ejemplo, en este caso hemos visto HTTP, pero hay un montón de protocolos de comunicación (divididos por en qué capa de OSI funciona cada uno de ellos) 

@@ -1,0 +1,5 @@
+Bases de datos: son tablas para almacenar la información de manera organizada. La información se guarda y se accede. Se almacenan los datos de manera sistemática. 
+
+SQL: lenguaje para bases de datos relacionales. Son los que más se parecen a una tabla como tal y son los que más se han utilizado hasta hace poco, pero a medida que el número y la exigencia de datos ha aumentado se han quedado un poco limitadas 
+
+NoSQL: BBDD no relacionales que pueden dividirse en diversos servidores distribuidos. Son más flexibles y rápidos que SQL 

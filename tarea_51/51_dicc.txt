@@ -1,0 +1,13 @@
+Sistema-Operativo: sw por el cual se controla todo el hardware y el encargado de arrancar el sistema. Se encuentra en el nivel más bajo y existen de todos los tipos incluso para TVs, lavadoras, smartwatches o máquinas industriales 
+
+Linux: so libre 
+
+CPU: unidad central de procesamiento --> parte central de un ordenador, como si fuera el cerebro. Es el encargado de interpretar las instrucciones 
+
+GPU: unidad de procesamiento gráfico --> el que controla el HMI y los gráficos que aparecen en ella 
+
+Periférico: todos los componentes hw para el manejo del pc --> pantalla, teclado, ratón, etc. 
+
+Terminal: cada uno de los ordenadores conectados a red 
+
+Interfaz: por donde se comunica el sistema con el usuario. Contiene ventanas, escritorio, botones, etc
