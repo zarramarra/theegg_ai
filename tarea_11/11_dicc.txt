@@ -1,0 +1,5 @@
+Turing: Informatikaren asmatzailea izan zen: algoritimia, kriptografoa... 
+
+Programación: método para resolución de problemas, en el que una secuencia de pasos obtienen un resultado deseado 
+
+Inteligencia Artificial – IA: pertsonen arrazonatzeko modua jarraituz, makina batek egiten duen prozesua da 
