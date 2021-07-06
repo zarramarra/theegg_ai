@@ -1,0 +1,3 @@
+línea de comandos: es la línea en la que se especifica la acción que queremos llevar a cabo. Puede estar formada solo por el comando (ejemplo, clear), por comando+argumento (mkdir nuevo_directorio) o por por comando+argumento+modificador 
+
+Consola: ventana para utilizar las líneas de comandos. En linux se abre haciendo CTRL+ALT+T o buscando la terminal 
