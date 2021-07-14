@@ -1,0 +1,5 @@
+búsqueda-secuencial: la búsqueda se hace mirando de una en una, en todas las posiciones del vector 
+
+búsqueda-binaria: la búsqueda se realiza en un vector ordenado y se empieza a comparar con el elemento de la mitad, y si no es igual se compara si es mayor o menor para decidir en qué mitad se sigue buscando y así sucesivamente 
+
+notación-Big-O: notación que se utiliza para medir la complejidad o eficiencia de un algoritmo 

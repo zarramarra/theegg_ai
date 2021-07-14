@@ -1,0 +1,7 @@
+expresiones-regulares: patrones que se utilizan para encontrar una determinada combinación de caracteres dentro de una cadena de texto 
+
+procesamiento-del-lenguaje-natural: obtener información o utilizar el lenguaje natural mediante un computador, la interacción entre el lenguaje humano y el de un computador 
+
+Scrapping: extraer datos de varias webs (cualquier tipo de dato) 
+
+Crawling: extraer hipervínculos de una web 
