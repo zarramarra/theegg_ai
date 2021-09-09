@@ -1,0 +1,9 @@
+Bash: Es la shell de Unix 
+
+Shell: es una interfaz de usuario para poder comunicarse con el sistema operativo 
+
+Script: es el programa donde se escriben las órdenes o las líneas de código para la shell (en general) o para el Bash (en caso de Unix) 
+
+Intérprete: el intérprete analiza el código fuente y lo ejecuta directamente en el momento 
+
+Compilador: el compilador traduce el código fuente a otro lenguaje  y es este último el que se ejecuta en la máquina 

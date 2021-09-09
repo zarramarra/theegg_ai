@@ -1,0 +1,60 @@
+Bash scripting: la idea es automatizar tres tareas mediante el bash scripting
+
+
+
+*********************************************************************************
+***** Script 1: conversor de archivos de audio (m4a-->mp3) **********************
+
+++++ Nombre: m4a_to_mp3.sh
+
+Este script convierte todos los archivos con extensión .m4a que se encuentran en 
+el directorio en archivos .mp3.
+
+*********************************************************************************
+
+
+
+*********************************************************************************
+***** Script 2: Escribir notas de recordatorio **********************************
+
+++++ Nombres: escribir_nota.sh / mostrar_nota.sh
+
+En este caso se trata de dos scripts que se ejecutan en momentos distintos:
+
+- escribir_nota.sh -> Este script se ejecuta cuando el usuario va a apagar el
+ordenador y se trata de escribir un recordatorio para cuando vuelva a encender 
+ordenador. Esta nota se escribe en el archivo "nota.txt"
+
+- mostrar_nota.sh -> Este script se ejecuta cuando se enciende el ordenador para 
+recordarle al usuario lo que quería al apagar el ordenador. Se muestra por la 
+terminal y también se abre un archivo con el recordatorio.
+
+Para activar estos scripts hay que utilizar otras herramientas como Crontab o 
+systemd.
+Para la prueba de estos scripts es suficiente con ejecutarlos directamente.
+
+*********************************************************************************
+
+
+
+
+*********************************************************************************
+***** Script 3:  contador de palabras más comunes *******************************
+
+++++ Nombre: mas_comunes.sh
+
+Este script obtiene las palabras más comunes en un archivo de texto. Tanto el 
+número de palabras más comunes, como el nombre del fichero se han definido como
+variables. El texto por la terminal muestra las NUM palabras del archivo DOC de 
+manera ordenada, empezando por el más común, y mostrando así mismo, el número de 
+veces que aparece cada palabra.
+
+Estos son los valores por defecto:
+NUM=5
+DOC="texto_de_ejemplo.txt"
+
+En este caso se obtendrán las 5 palabras más comunes del archivo 
+"texto_de_ejemplo.txt" de manera ordenada empezando del más común.
+
+*********************************************************************************
+
