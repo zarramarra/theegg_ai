@@ -1,0 +1,86 @@
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Bitter" />
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title> Relax page </title>
+        <link rel="stylesheet" href="estilo.css">
+        <script src="//cdnjs.cloudflare.com/ajax/libs/annyang/2.6.1/annyang.min.js"></script>
+        <!--script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script type="text/javascript">
+             $(document).ready(function() {
+                $('#saludo').click(function () {
+                    $('#saludo').text("Hola mundo.");
+                });
+                $("button").click(function(){
+                    $("p").hide();
+                });
+             });
+         </script>
+        <script type="text/javascript">
+             $(document).ready(function() {
+                $('#saludo').click(function () {
+                    $('#saludo').text("Hola mundo.");
+                    miVideo.pause();
+                });
+                $("button").click(function(){
+                    $("p").hide();
+                    miVideo.play();
+                });
+             });
+         </script-->
+        <script>
+            if (annyang) {
+                // Let's define our first command. First the text we expect, and then the function it should call
+                const commands = {
+                    'yes': () => { miVideo.play()},
+                    'no': () => { miVideo.pause()}
+                };
+
+                // Add our commands to annyang
+                annyang.addCommands(commands);
+
+                // Start listening. You can call this here, or attach this call to an event, button, etc.
+                //annyang.start(){ autoRestart: true };
+                annyang.start();
+            }
+        </script>
+    </head>
+    <body>
+        <h1>Recursos para relajarte </h1>
+        <ul  class="navbar">
+            <li><a href="index.html">inicio</a></li>
+            <li><a href="recursos.html">recursos</a></li>
+            <li><a href="about.html">sobre mí</a></li>
+        </ul>
+        <div id="bloque">
+             Prueba a mirar estas imágenes o visualiza el vídeo
+        </div>
+        <div>
+            <h2> Vídeo </h2>
+            <p> Di "yes" para reproducir el vídeo y "no" para pararlo.  </p>
+            <video class="divVideo" id="miVideo" src="prueba.mp4" controls autoplay > Video no es soportado... </video>
+        </div>
+
+        <div>
+            <h2>Imágenes </h2>
+            <div class="imgWrapper4">
+                <div class="imgResponsiva">
+                    <img src="img/01.jpeg"/>
+                </div>
+                <div class="imgResponsiva">
+                    <img src="img/02.jpeg"/>
+                </div>
+                <div class="imgResponsiva">
+                    <img src="img/03.jpeg"/>
+                </div>
+                <div class="imgResponsiva">
+                    <img src="img/04.jpeg"/>
+                </div>
+            </div>
+
+        </div>
+
+    </body>
+</html>
+

@@ -1,0 +1,15 @@
+Código-fuente: programa que escribe el programador, en cualquier lenguaje de programación y que se trata con un intérprete o compilador para que la máquina sepa lo que tiene que hacer- 
+
+AJAX: Asynchronous JavaScript And XML, es una técnica de desarrollo web para crear aplicaciones web asíncronas 
+
+HTML: lenguaje que se utiliza para definir la estructura de las páginas web. Está basado en etiquetas 
+
+Javascript: lenguaje de programación interpretado que es ligero y se utiliza junto con HTML para darle dinamismo a las páginas 
+
+CSS: Cascading Style Sheets --> lenguaje que se utiliza para dar estilo a las hojas de HTML. Capaz de hacer que la página sea responsive 
+
+Síncrono: cada vez que hay una actualización, se tiene que actualizar/refrescar toda la página 
+
+Asíncrono: solo se actualiza el campo que ha cambiado 
+
+Interfaz: elemento por el cual la persona interactúa con la máquina 
