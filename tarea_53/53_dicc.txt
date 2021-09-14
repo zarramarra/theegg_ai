@@ -1,0 +1,22 @@
+estadística-inferencial: la parte de la estadística que trata de obtener conclusiones utilizando una muestra (representativa, si es posible) que se puede extrapolar a toda la población 
+
+Variable: característica o cualidad que se va a analizar 
+
+Muestra: parte de la población que se utiliza para obtener conclusiones 
+
+Predicción: anuncio de lo que se espera que puede suceder 
+
+estimación: proceso/técnica que se utiliza para calcular un valor desconocido 
+
+hipótesis: afirmación que se hace sobre una variable estadística de una población y se utilizar para verificar o desmentirlo 
+
+varianza: medida de dispersión que se utiliza para representar la variabilidad de un conjunto de datos respecto de la media aritmética de los mismo 
+
+correlación: relación lineal y proporcionalidad entre dos variables estadísticas 
+
+p-valor: la probabilidad de que un valor estadístico sea posible dada una hipótesis nula cierta 
+distribución-normal: distribución de probabilidad de forma de campana (la frecuencia máxima en el centro, reduciéndose a ambos lados) y es la que más se repite. 
+
+ 
+
+ 
