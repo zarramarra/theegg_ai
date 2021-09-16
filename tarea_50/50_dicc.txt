@@ -1,0 +1,9 @@
+ética: disciplina filosófica que estudia el bien y el mal y sus relaciones con la moral y el comportamiento humano
+
+Inteligencia Artificial: combinación de algoritmos con el propósito de crear sistemas que presenten las mismas capacidades que el cerebro humano
+
+datos:  información organizada que se utiliza tanto para entrenar sistemas de IA como para obtener resultados de estos sistemas.
+
+ 
+
+ 
