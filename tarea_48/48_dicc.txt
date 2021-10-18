@@ -1,0 +1,9 @@
+#48 
+
+algoritmos-de-compresión: algoritmos que se utilizan para minimizar el tamaño de los archivos. Esta compresión se puede hacer de distintas maneras (sin y con pérdida de información) y utilizando distintos algoritmos 
+
+ZIP: algoritmo de compresión sin pérdida de datos 
+
+RAR: algoritmo propietario de compresión sin pérdida de datos basado en LZSS (que está basado en LZ77).  
+
+Descompresión: proceso por el cual se vuelve a conseguir el archivo original desde un archivo comprimido. Para descomprimir hay que conocer el algoritmo de compresión utilizado. 
