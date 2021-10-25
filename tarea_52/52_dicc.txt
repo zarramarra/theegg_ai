@@ -1,0 +1,7 @@
+Estructura-de-datos: forma particular de organizar los datos en programación. Todos los que aparecen a continuación son estructuras de datos alternativas
+array: (o vector) tipo de estructura de datos que contiene una serie de elementos del mismo tipo
+lista-enlazada: secuencia de elementos en el que se incluye el puntero del siguiente elemento
+grafo: estructura de datos no lineal en el que se describen relaciones y que no tienen por qué ser jerárquicas.
+colas: en una secuencia de elementos en el que primero entra sale primero (por el otro extremo). FIFO
+pilas: secuencia de elementos en que el primero que entra sale el último (por el mismo lado) LIFO
+árboles: estructura de datos jerárquica que imita la forma de un árbol y en el que se muestran las dependencias
