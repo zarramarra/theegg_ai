@@ -1,0 +1,8 @@
+Clase: es la plantilla base donde se crea la estructura en la cual después se crearán objetos
+. Objeto: una instancia de una clase definida
+. Método: las funciones del objeto
+. Propiedad/Atributo: los parámetros de los objetos
+. Instancia: una llamada / una utilización de una clase
+. Constructor: el que crea el objeto y se define como será
+. Encapsulamiento: técnica utilizada para proteger los atributos y métodos del objeto y que no estén accesibles desde fuera
+. Herencia: crear un nuevo objeto (o clase) a partir de uno que ya existe y por tanto hereda sus atributos y métodos
